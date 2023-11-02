@@ -3,9 +3,6 @@
 ## Description
 This react app allows the user to search a Movie name, and retrieve some basic details about it from the tmdb api. The user can view trending movies from the homepage, and by clicking the tabs in the navbar, they can also vew popular and top rated movies from the tmdb api. Once signed up and logged in, the user can add movies to their favorites list, and rate or remove them as they please.
 
-## Deployment
-https://final-project-frontend-group6.herokuapp.com/
-
 ## Set up instructions
 The user must clone the repo, and make a config.js file in the backend directory that exports their tmdb api key. For example:
 
